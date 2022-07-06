@@ -80,7 +80,7 @@
     "popper.js": "1.12.9",
     "rickshaw": "1.6.6",
     "rxjs": "^6.3.3",
-    "select2": "4.0.3",
+    "select2": "4.0.6",
     "select2-bootstrap-theme": "0.1.0-beta.9",
     "shufflejs": "4.2.0",
     "tslib": "^1.9.0",
